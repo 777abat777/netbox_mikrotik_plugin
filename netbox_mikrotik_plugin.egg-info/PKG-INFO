@@ -1,0 +1,11 @@
+Metadata-Version: 2.2
+Name: netbox_mikrotik_plugin
+Version: 1.0.0
+Summary: NetBox plugin for MikroTik integration
+Author: Ваше Имя
+Author-email: your@email.com
+License: MIT
+Dynamic: author
+Dynamic: author-email
+Dynamic: license
+Dynamic: summary

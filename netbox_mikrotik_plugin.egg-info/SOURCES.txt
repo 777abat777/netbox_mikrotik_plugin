@@ -1,0 +1,16 @@
+setup.py
+netbox_mikrotik_plugin/__init__.py
+netbox_mikrotik_plugin/config.py
+netbox_mikrotik_plugin/forms.py
+netbox_mikrotik_plugin/models.py
+netbox_mikrotik_plugin/navigation.py
+netbox_mikrotik_plugin/tables.py
+netbox_mikrotik_plugin/template_content.py
+netbox_mikrotik_plugin/template_extensions.py
+netbox_mikrotik_plugin/urls.py
+netbox_mikrotik_plugin/views.py
+netbox_mikrotik_plugin.egg-info/PKG-INFO
+netbox_mikrotik_plugin.egg-info/SOURCES.txt
+netbox_mikrotik_plugin.egg-info/dependency_links.txt
+netbox_mikrotik_plugin.egg-info/not-zip-safe
+netbox_mikrotik_plugin.egg-info/top_level.txt
