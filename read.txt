@@ -1,0 +1,13 @@
+pip install django-extensions
+INSTALLED_APPS = [
+    ...
+    'django_extensions',
+]
+python manage.py show_urls > urls.txt
+
+save all urls in urls.txt
+
+
+templates
+
+add path to templates in settings.py

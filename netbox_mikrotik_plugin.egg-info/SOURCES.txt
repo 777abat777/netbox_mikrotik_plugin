@@ -6,7 +6,6 @@ netbox_mikrotik_plugin/models.py
 netbox_mikrotik_plugin/navigation.py
 netbox_mikrotik_plugin/tables.py
 netbox_mikrotik_plugin/template_content.py
-netbox_mikrotik_plugin/template_extensions.py
 netbox_mikrotik_plugin/urls.py
 netbox_mikrotik_plugin/views.py
 netbox_mikrotik_plugin.egg-info/PKG-INFO
